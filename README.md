@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <a href = "mailto:larissalima@ice.ufjf.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-de-lima-81a90120a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/larissalimaa/larissalimaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/larissalimaa/larissalimaa/blob/output/github-contribution-grid-snake.svg)
+   
  
 </div>
