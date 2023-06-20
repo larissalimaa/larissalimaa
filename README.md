@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on Maching Learning
+- 💬 Ask me about Music
 - --> 
 
-- 🔭 I’m currently working on Maching Learning
 
-- 💬 Ask me about Music
 
   
 
